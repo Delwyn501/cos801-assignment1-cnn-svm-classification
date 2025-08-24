@@ -1,0 +1,16 @@
+placeholder for training folder, containing 12 subfolders for the labelled classes, with the image files in the folders
+  12 folder for 12 specicies.
+
+Cleavers: 287 files
+Sugar beet: 385 files
+Common Chickweed: 611 files
+Loose Silky-bent: 654 files
+Scentless Mayweed: 516 files
+Shepherds Purse: 231 files
+Fat Hen: 475 files
+Common wheat: 221 files
+Black-grass: 263 files
+Small-flowered Cranesbill: 496 files
+Charlock: 390 files
+Maize: 221 files
+Total training files: 4750
